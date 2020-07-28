@@ -1,0 +1,109 @@
+age,live_province,live_city,sex,marital,bank,salary,amount,Label
+28,DKI Jakarta,Jakarta Selatan,0,3,MANDIRI,5555555,507350.0,1
+19,Jawa Tengah,Semarang,0,4,MANDIRI,644552585855,514700.0,1
+38,DKI Jakarta,Jakarta Utara,0,3,MANDIRI,585858,507350.0,1
+18,DKI Jakarta,Jakarta Timur,0,3,MANDIRI,979764,514700.0,1
+37,DKI Jakarta,Jakarta Utara,1,4,MANDIRI,865656,1029400.0,0
+37,DKI Jakarta,Jakarta Utara,1,4,MANDIRI,865656,507350.0,0
+26,Jawa Barat,Bandung,1,1,CIMB,4894984,507350.0,1
+48,DKI Jakarta,Jakarta Pusat,0,2,MANDIRI,5000000,507350.0,1
+24,DKI Jakarta,Jakarta Pusat,0,1,MANDIRI,1000000,507350.0,1
+31,Jawa Tengah,Semarang,0,1,CIMB,89989994,1029400.0,1
+30,Jawa Tengah,Semarang,0,1,MANDIRI,86668669998,558085.0,0
+21,DKI Jakarta,Jakarta Barat,1,1,BCA,4000000,514700.0,0
+27,Jawa Barat,Bandung,0,2,OCBC,5000000,514700.0,0
+27,DKI Jakarta,Jakarta Utara,1,2,BCA,3200000,514700.0,0
+32,DKI Jakarta,Jakarta Barat,0,2,DANAMON,5000000,514700.0,1
+30,DKI Jakarta,Jakarta Barat,1,1,MANDIRI,5000000,514700.0,1
+25,Jawa Tengah,Semarang,1,3,BRI,545546554,5073.0,1
+30,Jawa Tengah,Semarang,0,1,MANDIRI,194966,528000.0,0
+32,DKI Jakarta,Jakarta Barat,1,1,BCA,2300000,556000.0,0
+41,Jawa Tengah,Semarang,0,1,BRI,858588,528000.0,0
+27,Jawa Barat,Bandung,0,2,OCBC,5000000,556000.0,0
+27,DKI Jakarta,Jakarta Utara,1,2,BCA,3200000,556000.0,0
+24,DKI Jakarta,Jakarta Pusat,0,1,BCA,3650000,556000.0,1
+38,Jawa Barat,Bandung,1,2,BRI,7000000,556000.0,0
+37,Sumatera Utara,Medan,1,2,BRI,15000000,556000.0,1
+20,Jawa Barat,Bandung,1,2,CIMB,2700000,556000.0,0
+27,Jawa Barat,Bandung,0,2,MANDIRI,444444444,556000.0,0
+19,Jawa Timur,Surabaya,0,3,MANDIRI,5764644,556000.0,0
+37,Jawa Timur,Surabaya,1,3,MANDIRI,8586,528000.0,0
+32,Sumatera Utara,Medan,0,2,BCA,8500000,1112000.0,1
+49,DKI Jakarta,Jakarta Utara,1,1,BCA,5250000,556000.0,0
+45,Jawa Barat,Bandung,0,2,BCA,6000000,1112000.0,0
+38,DKI Jakarta,Jakarta Barat,0,2,BRI,3648350,556000.0,0
+48,DKI Jakarta,Jakarta Pusat,0,2,BCA,6296000,556000.0,0
+38,DKI Jakarta,Jakarta Timur,0,2,BCA,4100000,556000.0,0
+27,DKI Jakarta,Jakarta Utara,1,2,BCA,3200000,556000.0,0
+25,DKI Jakarta,Jakarta Barat,0,1,BCA,3000000,556000.0,1
+26,DKI Jakarta,Jakarta Pusat,0,2,BCA,4500000,556000.0,0
+26,Jawa Barat,Bandung,1,2,BCA,4900000,556000.0,0
+34,DKI Jakarta,Jakarta Timur,0,1,BRI,5000000,556000.0,1
+32,Sumatera Utara,Medan,1,2,SUMUT,4000000,556000.0,1
+29,Jawa Barat,Bandung,1,1,BCA,4000000,556000.0,0
+29,DKI Jakarta,Jakarta Barat,0,2,BCA,6000000,556000.0,0
+23,DKI Jakarta,Jakarta Timur,0,1,BCA,6750000,556000.0,0
+38,Jawa Barat,Bandung,1,2,BRI,7000000,556000.0,0
+32,DKI Jakarta,Jakarta Barat,1,1,BCA,2300000,556000.0,0
+36,Jawa Barat,Bandung,0,2,MANDIRI,3150000,556000.0,0
+24,DKI Jakarta,Jakarta Barat,1,1,BCA,3750000,556000.0,0
+25,DKI Jakarta,Jakarta Barat,0,1,BCA,3800000,556000.0,1
+20,Jawa Barat,Bandung,1,2,CIMB,2700000,556000.0,1
+37,Jawa Timur,Surabaya,0,1,BCA,4225000,556000.0,0
+33,DKI Jakarta,Jakarta Selatan,0,1,MANDIRI,4500000,556000.0,0
+33,DKI Jakarta,Jakarta Pusat,0,2,BCA,6500000,556000.0,1
+30,DKI Jakarta,Jakarta Selatan,0,2,BCA,5300000,556000.0,0
+49,DKI Jakarta,Jakarta Utara,1,1,BCA,5250000,556000.0,0
+41,Jawa Barat,Bandung,0,1,BCA,5500000,556000.0,0
+24,DKI Jakarta,Jakarta Barat,0,1,BCA,4100000,556000.0,1
+22,DKI Jakarta,Jakarta Selatan,0,1,BCA,4200000,556000.0,0
+38,DKI Jakarta,Jakarta Timur,1,2,PERMATA,4000000,556000.0,0
+27,DKI Jakarta,Jakarta Barat,1,1,BCA,3300000,556000.0,0
+33,DKI Jakarta,Jakarta Barat,0,2,BCA,5000000,556000.0,1
+33,DKI Jakarta,Jakarta Timur,0,1,BTN,3648000,556000.0,0
+45,Jawa Barat,Bandung,0,2,BCA,6000000,1112000.0,0
+40,DKI Jakarta,Jakarta Timur,0,1,BRI,5000000,556000.0,0
+28,DKI Jakarta,Jakarta Utara,1,2,BCA,9250000,556000.0,0
+44,DKI Jakarta,Jakarta Barat,0,3,CIMB,8000000,556000.0,0
+30,DKI Jakarta,Jakarta Timur,0,2,BCA,7500000,556000.0,0
+39,Sumatera Utara,Medan,0,1,BCA,10000000,556000.0,0
+30,Jawa Barat,Bandung,0,1,BCA,4000000,556000.0,0
+29,DKI Jakarta,Jakarta Selatan,0,2,CIMB,3400000,556000.0,0
+30,DKI Jakarta,Jakarta Timur,1,2,DANAMON,6400000,556000.0,0
+48,DKI Jakarta,Jakarta Timur,1,2,PERMATA,17335000,556000.0,0
+43,Sumatera Utara,Medan,0,1,SINARMAS,7500000,556000.0,0
+29,DKI Jakarta,Jakarta Timur,1,1,BCA,4500000,556000.0,0
+31,DKI Jakarta,Jakarta Selatan,0,2,BCA,7100000,556000.0,1
+32,DKI Jakarta,Jakarta Barat,0,1,MANDIRI,3700000,556000.0,0
+27,DKI Jakarta,Jakarta Utara,1,2,BCA,3200000,556000.0,0
+30,DKI Jakarta,Jakarta Utara,0,1,MANDIRI,7900000,556000.0,1
+22,Jawa Timur,Surabaya,0,1,BCA,3500000,556000.0,0
+39,Jawa Barat,Bandung,0,1,BCA,5560000,556000.0,0
+30,DKI Jakarta,Jakarta Timur,0,1,BRI,3650000,556000.0,0
+46,Jawa Barat,Bandung,0,1,BCA,15000000,528000.0,0
+29,Jawa Barat,Bandung,0,1,BCA,3100000,556000.0,1
+37,DKI Jakarta,Jakarta Selatan,0,1,BCA,3500000,556000.0,0
+33,DKI Jakarta,Jakarta Timur,1,2,DANAMON,5000000,556000.0,0
+32,Jawa Timur,Surabaya,1,2,DANAMON,4300000,556000.0,0
+31,DKI Jakarta,Jakarta Timur,1,1,BCA,4650000,556000.0,1
+27,Jawa Barat,Bandung,0,2,OCBC,5000000,556000.0,1
+38,DKI Jakarta,Jakarta Barat,0,2,BRI,3648350,556000.0,0
+34,DKI Jakarta,Jakarta Selatan,1,1,TABUNGAN_PENSIUNAN_NASIONAL,5580000,556000.0,0
+42,DKI Jakarta,Jakarta Selatan,1,3,MANDIRI,8000000,556000.0,0
+29,DKI Jakarta,Jakarta Timur,0,1,BCA,6000000,556000.0,1
+32,DKI Jakarta,Jakarta Pusat,0,2,BCA,6500000,556000.0,1
+35,DKI Jakarta,Jakarta Timur,1,1,BCA,5500000,556000.0,0
+29,Jawa Barat,Bandung,1,1,BCA,4000000,556000.0,1
+22,Jawa Timur,Surabaya,0,1,BCA,3500000,556000.0,0
+48,DKI Jakarta,Jakarta Pusat,0,2,BCA,6296000,556000.0,0
+52,Jawa Timur,Surabaya,1,2,BCA,7200000,556000.0,1
+33,DKI Jakarta,Jakarta Timur,0,1,MANDIRI,6000000,556000.0,0
+27,Jawa Tengah,Semarang,0,2,BCA,4000000,556000.0,1
+34,Jawa Tengah,Semarang,1,1,BRI,3072000,556000.0,0
+33,DKI Jakarta,Jakarta Utara,0,1,BCA,6000000,556000.0,1
+38,Jawa Timur,Surabaya,0,1,MANDIRI,4500000,556000.0,0
+37,DKI Jakarta,Jakarta Selatan,0,2,MANDIRI,6200000,556000.0,0
+39,Jawa Timur,Surabaya,0,1,BCA,5250000,556000.0,0
+39,Jawa Barat,Kabupaten Bekasi,0,2,MANDIRI,8150000,556000.0,0
+40,DKI Jakarta,Jakarta Pusat,0,1,MANDIRI,5500000,556000.0,1
+29,DKI Jakarta,Jakarta Selatan,0,2,DKI,3650000,556000.0,0
